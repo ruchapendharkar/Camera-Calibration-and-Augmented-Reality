@@ -1,0 +1,7 @@
+/home/rucha/cs5330-Project4/scripts/CMakeFiles/rebuild_cache.dir
+/home/rucha/cs5330-Project4/scripts/CMakeFiles/edit_cache.dir
+/home/rucha/cs5330-Project4/scripts/CMakeFiles/task7.dir
+/home/rucha/cs5330-Project4/scripts/CMakeFiles/task6.dir
+/home/rucha/cs5330-Project4/scripts/CMakeFiles/task5.dir
+/home/rucha/cs5330-Project4/scripts/CMakeFiles/task4.dir
+/home/rucha/cs5330-Project4/scripts/CMakeFiles/CameraCalib.dir
