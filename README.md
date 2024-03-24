@@ -9,7 +9,7 @@ The goal of this project is to understand and perform camera calibration. The ca
 Link to containing the virtual object we created - https://www.youtube.com/shorts/YXEigihUHyo?feature=share
 ## Features
 
-- **Camera Calibration:** : The system captures video in real-time using the camera from an input can be mobile phone, laptop webcam and performs camera calibration. Run the calibration.cpp file for tasks 1-3
+- **Camera Calibration:** : The system captures video in real-time using the camera from an input which can be mobile phone, laptop webcam and performs camera calibration. Run the calibration.cpp file for tasks 1-3
 
 - **Virtual Object**: The virtual object is created using files task6.cpp. Run files task4.cpp and task5.cpp to calculate current position of the camera and project the corners outside the 3D axes. 
 
